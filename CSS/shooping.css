@@ -1,0 +1,31 @@
+h1{text-align:center;color:green;}
+
+ div {width:100%;top=30px;margin-bottom: 20px;} 
+
+p{margin:10px;}
+
+.loja_especial{color:red}
+
+.produto_especial{color:green}
+
+a{text-decoration: none; margin-left: 100px;
+    margin right: : 100px;
+    
+}
+
+a:link{
+    color:blue;
+}
+a:visited {
+    color:blue;
+   
+}
+
+a:rover{
+    color:green
+        text-transform: uppercase 
+
+
+
+a:active{color:red
+}
